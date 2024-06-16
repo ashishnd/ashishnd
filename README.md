@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about my projects
 - 📫 How to reach me: deshpande.ashish13@gmail.com or https://www.linkedin.com/in/ashishnd/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy watching Steve Jobs's old interviews and Apple's earlier WWDC events!
+- ⚡ Fun fact: I enjoy solving problems on Leetcode and watching Steve Jobs's old interviews and Apple's earlier WWDC events!
 
