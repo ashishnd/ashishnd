@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Problem Solving
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 💥 My most active respoitory currerently and generally is LeetCode-Solutions where I upload my daily solved Leetcode problems along with metadata
+- 💥 My most active respoitory currerently and generally is LeetCode-Solutions where I upload my daily solved Leetcode problems
 - 🤔 I’m looking for help with DSA and job referrals
 - 💬 Ask me about my projects
 - 📫 How to reach me: deshpande.ashish13@gmail.com or https://www.linkedin.com/in/ashishnd/
