@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **My projects and dsa topics**
 
-- 📫 How to reach me **deshpande.ashish13@gmail.com**
+- 📫 How to reach me **deshpande.ashish13@gmail.com** or **linkedin.com/in/ashishnd**
 
 - ⚡ Fun fact **I enjoy watching Steve Jobs's old interviews and Apple's earlier WWDC events!**
 
