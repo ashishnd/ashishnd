@@ -12,9 +12,9 @@
 
 - 🧑‍🎓 Studied Computer Science at [Pune University](http://www.unipune.ac.in/)
 
-- 🤝 I’m looking for help with **Mock interviews and job referrals**
+- 🤝 I’m looking for help with **Mock interviews and Job Referrals**
 
-- 💬 Ask me about my **projects and DSA questions**
+- 💬 Ask me about my **Projects and DSA Skills**
 
 - 📫 How to reach me **deshpande.ashish13@gmail.com**
 
