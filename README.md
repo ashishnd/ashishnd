@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishnd&label=Profile%20views&color=0e75b6&style=flat" alt="ashishnd" /> </p>
 
-- 🔭 I’m currently working on **Problem Solving**
+- 🔭 I’m currently working on [**Problem Solving**](https://leetcode.com/u/ashishnd/) and mastering [**Data Structures and Algorithms**](https://leetcode.com/u/ashishnd/) 
 
-- 🌱 I’m currently mastering **Data Structures and Algorithms**
+- 🧑‍🎓 Studied Computer Science at [Pune University](http://www.unipune.ac.in/)
 
 - 🤝 I’m looking for help with **Mock interviews and job referrals**
 
-- 💬 Ask me about **My projects and dsa topics**
+- 💬 Ask me about my **projects and DSA questions**
 
 - 📫 How to reach me **deshpande.ashish13@gmail.com** or [linkedin.com/in/ashishnd](https://www.linkedin.com/in/ashishnd/)
 
