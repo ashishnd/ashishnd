@@ -143,9 +143,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ashishnd&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 -->
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ashishnd&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+-->
 ---
 
 ### Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.
