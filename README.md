@@ -154,5 +154,5 @@
 Steve Jobs
 
 ---
-
+![Metrics](/github-metrics.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
