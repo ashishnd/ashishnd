@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ashish Deshpande</h1>
-<h3 align="center">A passionate software engineer looking to revolutionize the tech industry</h3>
+<h3 align="center">A passionate software engineer looking to revolutionize the tech industry</h3><br/>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/da819a987d1c4c219259f36684cead6a/5fbcac8f2768d27d-4d/s540x810/65a6bff9298dd6bfe1e5a2b286f22b84e67902e8.gifv" style="border-radius: 50%;">
 
 
@@ -45,6 +45,7 @@
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashish.deshpande_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishnd) -->
 [<img alt="Static Badge" src="https://img.shields.io/badge/-deshpande.ashish13%40gmail.com-white?logo=gmail&logoColor=%23f5f5f5&color=%23c71610">](mailto:deshpande.ashish13@gmail.com)
+
 [<img alt="Static Badge" src="https://img.shields.io/badge/-Linkedin-blue?logo=linkedin">](https://www.linkedin.com/in/ashishnd/)
 [<img alt="Static Badge" src="https://img.shields.io/badge/-Leetcode-black?logo=leetcode&color=grey">](https://leetcode.com/u/ashishnd/)
 [<img alt="Static Badge" src="https://img.shields.io/badge/-Instagram-pink?logo=instagram">](https://www.instagram.com/ashish.deshpande_/)
