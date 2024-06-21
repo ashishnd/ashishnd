@@ -43,8 +43,8 @@
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashish.deshpande_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishnd) -->
 [<img alt="Static Badge" src="https://img.shields.io/badge/-deshpande.ashish13%40gmail.com-white?logo=gmail&logoColor=%23f5f5f5&color=%23c71610">](mailto:deshpande.ashish13@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishnd/)
-[<img alt="Static Badge" src="https://img.shields.io/badge/-Leetcode-black?logo=leetcode">](https://leetcode.com/u/ashishnd/)
+[<img alt="Static Badge" src="https://img.shields.io/badge/-Linkedin-blue?logo=linkedin">](https://www.linkedin.com/in/ashishnd/)
+[<img alt="Static Badge" src="https://img.shields.io/badge/-Leetcode-black?style=plastic&logo=leetcode">](https://leetcode.com/u/ashishnd/)
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/ashishnd/) -->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ashish.deshpande_)
 
