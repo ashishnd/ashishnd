@@ -41,9 +41,12 @@
 <a href="https://instagram.com/ashish.deshpande_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/ashish.deshpande_" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/ashishnd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ashish_deshpande" height="30" width="40" /></a>
 
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashish.deshpande_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishnd) --> 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/ashishnd/)
-<img alt="Static Badge" src="https://img.shields.io/badge/-deshpande.ashish13%40gmail.com-white?logo=gmail&logoColor=%23f5f5f5&color=%23c71610&link=mailto%3Adeshpande.ashish13%40gmail.com">
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashish.deshpande_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishnd) -->
+[<img alt="Static Badge" src="https://img.shields.io/badge/-deshpande.ashish13%40gmail.com-white?logo=gmail&logoColor=%23f5f5f5&color=%23c71610">](mailto:deshpande.ashish13@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishnd/)
+[<img alt="Static Badge" src="https://img.shields.io/badge/-Leetcode-black?logo=leetcode">](https://leetcode.com/u/ashishnd/)
+<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/ashishnd/) -->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ashish.deshpande_)
 
 
 # 💻 Tech Stack
