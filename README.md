@@ -22,9 +22,9 @@
 
 - ⚡ Fun fact **I enjoy watching Steve Jobs's old interviews and Apple's earlier WWDC events!**
 
-<h3 align="left">Connect with me</h3>
+<!--<h3 align="left">Connect with me</h3>
 <p align="left">
-<!--<div align="left">
+<div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
@@ -33,15 +33,14 @@
 
 ###
   
-<a href="https://linkedin.com/in/ashishnd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ashishnd" height="30" width="40" /></a>
-<a href="https://instagram.com/ashish.deshpande_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/ashish.deshpande_" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/ashishnd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ashish_deshpande" height="30" width="40" /></a>
-
 </p>
 
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/ashish_deshpande_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ashishnd) 
+<a href="https://linkedin.com/in/ashishnd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ashishnd" height="30" width="40" /></a>
+<a href="https://instagram.com/ashish.deshpande_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/ashish.deshpande_" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ashishnd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ashish_deshpande" height="30" width="40" /></a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashish_deshpande_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishnd) 
 <img src="https://camo.githubusercontent.com/59928b41187dbef01a8103c886695ab935778f6cb1426a155f2b834296727bdf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6d696e616c2e7661697479393540676d61696c2e636f6d2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6d696e616c2e7661697479393540676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-deshpande.ashish13@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:deshpande.ashish13@gmail.com" style="max-width: 100%;">
 
 # 💻 Tech Stack
