@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Mock interviews and Job Referrals**
 
-- 💬 Ask me about my **Projects and DSA Skills**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **deshpande.ashish13@gmail.com**
 
@@ -154,6 +154,7 @@
 Steve Jobs
 
 ---
+
 ![Isocalendar](/metrics.plugin.isocalendar.fullyear.svg)
 ![Metrics](/github-metrics.svg)
 
