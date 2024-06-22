@@ -1,0 +1,22 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: <your-github-username>
+          template: classic
+          base: header, activity, community
+          plugin_isocalendar: 'yes'
+          plugin_isocalendar_duration: 'full-year'
+          # Ensure output filename here if you're outputting as an image
+          filename: metrics.plugin.isocalendar.svg
