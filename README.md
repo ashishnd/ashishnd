@@ -157,8 +157,18 @@
 Steve Jobs
 
 ---
-
+<table>
+  <tr>
+    <td>
+      <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isocalendar"/>
+    </td>
+    <td>
+      <img src="/github-metrics.svg" alt="Metrics"/>
+    </td>
+  </tr>
+</table>
+<!--
 ![Isocalendar](/metrics.plugin.isocalendar.fullyear.svg)
 ![Metrics](/github-metrics.svg)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
