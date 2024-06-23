@@ -160,16 +160,14 @@
     </td>
   </tr>
 </table>
+<br/>
 
 ---
 
 ### Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.
-<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-Steve Jobs
 
+Steve Jobs
+      
 ---
-<!--
-![Isocalendar](/metrics.plugin.isocalendar.fullyear.svg)
-![Metrics](/github-metrics.svg)
--->
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
