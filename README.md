@@ -150,7 +150,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ashishnd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
-<table align="center">
+<!--<table align="center">
   <tr>
     <td>
       <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isocalendar"/>
@@ -161,7 +161,9 @@
       <img src="/github-metrics.svg" alt="Metrics"/>
     </td>
   </tr>
-</table>
+</table> -->
+<img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Isocalendar" align="left"/>
+<img src="/github-metrics.svg" alt="Metrics"/>
 <br/>
 
 ---
