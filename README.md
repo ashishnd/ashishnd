@@ -14,8 +14,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **Mock Interviews and Job Referrals**
-
 - 📫 How to reach me **deshpande.ashish13@gmail.com**
 
 - 🧑‍💼 Connect with me on **[linkedin.com/in/ashishnd](https://www.linkedin.com/in/ashishnd/)**
