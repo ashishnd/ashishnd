@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.linkedin.com/in/ashishnd/)
 <h1 align="center">Hi 👋, I'm Ashish Deshpande</h1>
-<h3 align="center">A passionate software engineer looking for an opportunity to do impactful work in the tech industry.</h3><br/>
+<h3 align="center">I'm a passionate software engineer looking for an opportunity to do impactful work in the tech industry.</h3><br/>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/da819a987d1c4c219259f36684cead6a/5fbcac8f2768d27d-4d/s540x810/65a6bff9298dd6bfe1e5a2b286f22b84e67902e8.gifv">
 
 
