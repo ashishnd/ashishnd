@@ -12,7 +12,7 @@
 
 - 🧑‍🎓 Studied Computer Science at [Pune University](http://www.unipune.ac.in/)
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m currently collaborating on **Angular Open Source Project**
 
 - 📫 How to reach me **deshpande.ashish13@gmail.com**
 
